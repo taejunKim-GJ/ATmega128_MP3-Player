@@ -70,10 +70,10 @@ src/
 
 ### 데모 영상
 > 본 구동 영상에서는 4×4 키패드 입력을 통한 곡 재생 및 타이머 PWM 기반 오디오 출력 동작을 확인할 수 있습니다.
-[MP3 Player 구동 데모 영상 보기](
+[![ATmega128 MP3 플레이어 시연 영상](https://img.youtube.com/vi/유튜브영상ID/0.jpg)](https://youtube.com/shorts/Gu2SDf37emw?feature=share)
 
 <br>
 
 ## 참고 자료
-- **[악보 자료]** [겨울왕국 'Let it go' 구동 악보 (`Let it go_Frozen_악보.pdf`)](./docs/Let_it_go_Frozen_악보.pdf)
-- **[설계 근거]** [계이름별 PWM 주파수 매핑 데이터 (`계이름별_주파수값.png`)](./docs/계이름별_주파수값.png)
+- **[악보 자료]** [겨울왕국 'Let it go' 구동 악보](./docs/Let_it_go_Frozen_악보.pdf)
+- **[설계 근거]** [계이름별 PWM 주파수 매핑 데이터](./docs/계이름별_주파수값.png)
