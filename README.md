@@ -19,7 +19,7 @@ ATmega128 MCU를 기반으로 키패드 입력을 제어하고, 타이머 인터
 - **Input:** 4x4 Keypad (곡 선택 및 재생)
 - **Output (Audio):** Buzzer / Audio Out (PWM 제어 기반 주파수 출력)
 - **Output (Display):** GLCD (재생 상태, 곡 정보 문자 출력)
-- **IDE / Compiler:** Microchip Studio (C Language)
+- **IDE:** Microchip Studio (C Language)
 
 <br>
 
@@ -67,10 +67,8 @@ src/
 <br>
 
 ## 5. 시연 영상
-
-### 데모 영상
-> 본 구동 영상에서는 4×4 키패드 입력을 통한 곡 재생 및 타이머 PWM 기반 오디오 출력 동작을 확인할 수 있습니다.
-[![ATmega128 MP3 플레이어 시연 영상](https://img.youtube.com/vi/유튜브영상ID/0.jpg)](https://youtube.com/shorts/Gu2SDf37emw?feature=share)
+본 구동 영상에서는 4×4 키패드 입력을 통한 곡 재생 및 타이머 PWM 기반 오디오 출력 동작을 확인할 수 있습니다.
+[![ATmega128 MP3 플레이어 시연 영상](https://img.youtube.com/vi/Gu2SDf37emw/hqdefault.jpg)](https://youtube.com/shorts/Gu2SDf37emw?feature=share)
 
 <br>
 
