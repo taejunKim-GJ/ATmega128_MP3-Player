@@ -8,10 +8,10 @@ ATmega128 MCU를 기반으로 키패드 입력을 제어하고, 타이머 인터
 
 <br>
 
-## 2. 시스템 구조
+## 2. 시스템 아키텍쳐
 
-### 하드웨어 아키텍쳐
-<img width="500" alt="Hardware Configuration" src="https://github.com/user-attachments/assets/1eb28666-72e7-44a5-ae01-fa58fb52e3ba" />
+### 하드웨어 구조
+<img width="600" alt="Hardware Configuration" src="https://github.com/user-attachments/assets/1eb28666-72e7-44a5-ae01-fa58fb52e3ba" />
 
 - **IDE:** Microchip Studio
 - **MCU:** AVR ATmega128
