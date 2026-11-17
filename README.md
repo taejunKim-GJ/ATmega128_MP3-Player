@@ -89,6 +89,8 @@ src/
 <br>
 
 ## 5. 시연 영상
+**👇 클릭해서 작동 시연 영상 보기 (YouTube)**
+
 [![ATmega128 MP3 플레이어 시연 영상](https://img.youtube.com/vi/Gu2SDf37emw/hqdefault.jpg)](https://youtube.com/shorts/Gu2SDf37emw?feature=share)
 
 <br>
